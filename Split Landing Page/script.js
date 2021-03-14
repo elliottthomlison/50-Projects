@@ -1,19 +1,9 @@
-const labels = document.querySelectorAll('.form-control label')
+const left = document.querySelector('.left')
+const right = document.querySelector('.right')
+const container = document.querySelector('.container')
 
-// //no wave
-// labels.forEach(label => {
-//   label.innerHTML = label.innerText
-//     .split('')
-//     .map((letter, index) => `<span>${letter}</span>`)
-//     .join('')
-// })
+left.addEventListener('mouseenter', () => container.classList.add('hover-left'))
+left.addEventListener('mouseleave', () => container.classList.remove('hover-left'))
 
-
-//with wave
-labels.forEach(label => {
-  label.innerHTML = label.innerText
-    .split('')
-    .map((letter, index) => `<span
-    style="transition-delay:${index * 50}ms">${letter}</span>`)
-    .join('')
-})
+right.addEventListener('mouseenter', () => container.classList.add('hover-right'))
+right.addEventListener('mouseleave', () => container.classList.remove('hover-right'))
