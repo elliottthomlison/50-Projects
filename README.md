@@ -1,6 +1,6 @@
 # 50 Projects 
 
-This repository contains 50 projects that Brad Traversy built as seen <a href="https://50projects50days.com/">here</a>. I followed his videos, coded along, and tinkered with the functionality of the project.
+This repository contains 50 projects that Brad Traversy built as seen <a href="https://50projects50days.com/">here</a>. I followed his videos, coded along, and tinkered with the functionality of each design to better understand.
 
 ## Final Products  
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
