@@ -1,5 +1,8 @@
-HTML, CSS and JavaScript
+# 50 Projects 
 
+This repository contains 50 projects that Brad Traversy built as seen <a href="https://50projects50days.com/">here</a>. I followed his videos, coded along, and tinkered with the functionality of the project.
+
+## Final Products  
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
